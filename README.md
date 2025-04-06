@@ -50,6 +50,8 @@
 - 🌐 [Portfolio](https://akobabs.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
 - ✉️ Email: akorede[dot]ademola[at]yahoo[dot]com
+- 📄 [Download My CV](https://github.com/Akobabs/main/Ademola_Akorede_CV.pdf)
+
 
 ---
 
