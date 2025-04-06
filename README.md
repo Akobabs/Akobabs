@@ -48,7 +48,7 @@
 
 - 📍 Nigeria
 - 🌐 [Portfolio](https://akobabs.github.io/)
-- 💼 [LinkedIn](https://linkedin.com/in/akorede-ademola)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
 - ✉️ Email: akorede[dot]ademola[at]yahoo[dot]com
 
 ---
