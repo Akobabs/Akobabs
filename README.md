@@ -26,15 +26,6 @@
 
 ---
 
-![Lines of Code](https://img.shields.io/tokei/lines/github/Akobabs/REPO_NAME?color=blue)
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical)
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
