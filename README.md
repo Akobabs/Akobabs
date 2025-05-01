@@ -26,13 +26,12 @@
 
 ---
 
-### 📈 GitHub Stats
+![Lines of Code](https://img.shields.io/tokei/lines/github/Akobabs/REPO_NAME?color=blue)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akobabs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical)
+
 
 ---
 
