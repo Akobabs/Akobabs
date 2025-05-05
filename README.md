@@ -38,7 +38,7 @@
 
 ### 📌 Featured Projects
 
-- 🚑 **[COVID-](https://github.com/Akobabs/Covid19_research_project)** – Detects symptoms using vitals and voice analysis
+- 🚑 **[Plant Disease Detection](https://github.com/Akobabs/COMPUTER-AIDED-VISION-FOR-PLANT-DISEASE-DETECTION?)** – Detects diseases using image and present it results with a heatmap visualizing the affected region
 - 🔧 **[Lung Cancer Detection](https://github.com/Akobabs/Lung-Cancer-Detection-with-Computer-Aided-Vision)** – Django-powered AI backend
 - 🌐 **[Digital CV + Dashboard](https://akobabs.github.io/)** – Live personal site hosted on GitHub Pages
 
