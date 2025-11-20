@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 - 📍 Nigeria
-- 🌐 [Portfolio](https://akobabs.github.io/)
+- 🌐 [Portfolio](https://akoredeademola.live/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
 - ✉️ Email: akorede[dot]ademola[at]yahoo[dot]com
 - 📄 [Download My CV](https://akobabs.github.io/Ademola_Akorede_CV.pdf)
