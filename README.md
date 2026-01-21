@@ -19,10 +19,11 @@
 ### 🛠️ Tech Stack
 
 - 💻 Python | R | SQL | MATLab | Java
-- 🤖 Scikit-learn | TensorFlow | OpenCV | ANFIS
+- 🖥️ Scikit-learn | TensorFlow | OpenCV | ANFIS
 - 📊 Power BI | Excel | Tally ERP 9
 - 🌐 HTML | CSS | GitHub Pages
 - 🛠️ Django | Flask | Streamlit
+- 🤖 Automation Anywhere | UI Path
 
 ---
 
@@ -46,11 +47,10 @@
 
 ### 📫 Let's Connect
 
-- 📍 Nigeria
+- 📍 Lagos, Nigeria
 - 🌐 [Portfolio](https://akoredeademola.live/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
 - ✉️ Email: akorede[dot]ademola[at]yahoo[dot]com
-- 📄 [Download My CV](https://akobabs.github.io/Ademola_Akorede_CV.pdf)
 
 
 ---
