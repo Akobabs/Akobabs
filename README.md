@@ -11,51 +11,51 @@
 
 ---
 
-### 🔬 Research & Professional Focus
-* **Current Role:** Research Assistant exploring **AI in Precision Medicine** and **Predictive Modeling**.
-* **Core Focus:** Infectious Disease Epidemiology and Computer-Aided Vision.
-* **Mission:** Developing automated, high-precision workflows for healthcare and agricultural challenges in underserved communities.
-* **Education:** B.Sc. Computer Science from **Federal University Oye Ekiti**.
+### 🔬 Research & Professional Impact
+* **Current Focus:** Researching applications of **AI in Precision Medicine** and **Infectious Disease Epidemiology**.
+* **Expertise:** Bridging **Computer Vision** with healthcare diagnostics and predictive modeling.
+* **Mission:** Automating complex workflows to provide high-tech solutions for underserved communities.
+* **Alma Mater:** B.Sc. Computer Science, **Federal University Oye Ekiti**.
 
 ---
 
-### 🛠️ Specialized Tech Stack
+### 🛠️ Tech Stack & Research Tools
 
-| Category | Tools & Technologies |
+| Category | Tools |
 | :--- | :--- |
 | **AI / Machine Learning** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) |
-| **Data & Insights** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white) |
-| **Web & Deployment** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) |
-| **Automation & RPA** | ![UIPath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=flat-square&logo=uipath&logoColor=white) **Automation Anywhere** |
+| **Data & Analytics** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square&logo=mathworks&logoColor=white) |
+| **Web & App Dev** | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) |
+| **Automation (RPA)** | ![UIPath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=flat-square&logo=uipath&logoColor=white) **Automation Anywhere** |
 
 ---
 
-### 📊 GitHub Analytics (Public + Private)
-*This section uses a custom Vercel instance to track private repository contributions and pull requests.*
+### 📊 Performance Metrics (Public + Private)
+> [!NOTE]
+> These stats include contributions from private research repositories and organizations.
 
 <p align="center">
   <img src="https://github-readme-stats-one-xi-99.vercel.app/api?username=Akobabs&show_icons=true&count_private=true&include_all_commits=true&theme=radical&private_contributions=true" width="48%" alt="Akobabs Stats" />
+  
   <img src="https://github-readme-stats-one-xi-99.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical&count_private=true" width="40%" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akobabs&theme=dracula&no-frame=true&column=7" alt="Trophies" />
-</p>
+
 
 ---
 
-### 📌 Featured Research Projects
+### 📌 Featured Projects & Publications
 
-* 🚑 **[Lung Cancer Detection](https://github.com/Akobabs/Lung-Cancer-Detection-with-Computer-Aided-Vision)** – A Django-powered backend utilizing Computer-Aided Vision to assist in clinical diagnosis.
-* 🌱 **[Plant Disease Detection](https://github.com/Akobabs/COMPUTER-AIDED-VISION-FOR-PLANT-DISEASE-DETECTION?)** – Deep Learning model that identifies diseases and generates heatmaps to visualize affected regions in crops.
-* 🌐 **[Personal Research Dashboard](https://akoredeademola.live/)** – A live data-driven CV and project showcase hosted on Vercel.
+* 🚑 **[Lung Cancer Detection](https://github.com/Akobabs/Lung-Cancer-Detection-with-Computer-Aided-Vision)** – High-fidelity Django backend using Computer-Aided Vision for clinical lung cancer screening.
+* 🌱 **[Plant Disease Vision](https://github.com/Akobabs/COMPUTER-AIDED-VISION-FOR-PLANT-DISEASE-DETECTION?)** – CNN-based detection system providing heatmaps of disease spread in agricultural environments.
+* 🌐 **[Digital Portfolio](https://akoredeademola.live/)** – Real-time research dashboard and live CV hosted on Vercel.
 
 ---
 
-### 📫 Connect with Me
-* 📍 **Location:** Lagos, Nigeria
-* 💼 **LinkedIn:** [In/Akorede-Adejare-Ademola](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
+### 📫 Let's Collaborate
+* 📍 **Lagos, Nigeria**
 * ✉️ **Email:** [akorede.ademola@yahoo.com](mailto:akorede.ademola@yahoo.com)
-* 🚀 **Collaboration:** Open to research partnerships in Bioinformatics, CV, and Infectious Disease Modeling.
+* 💼 **LinkedIn:** [Ademola Adejare Akorede](https://www.linkedin.com/in/akorede-adejare-ademola-082105273)
+* 🔭 **Open to:** Academic research, bioinformatics collaborations, and AI-driven social impact projects.
 
-<p align="right"><i>Built with ❤️ and Precision.</i></p>
+<p align="right"><i>Refining the future through data.</i></p>
