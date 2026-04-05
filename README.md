@@ -34,11 +34,16 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Activity (Private + Public)
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Akobabs&show_icons=true&theme=radical&rank_icon=github" alt="Ademola's Stats" />
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-one-xi-99.vercel.app/api?username=Akobabs&show_icons=true&count_private=true&include_all_commits=true&theme=radical&private_contributions=true" width="48%" />
+  
+  <img src="https://github-readme-stats-one-xi-99.vercel.app/api/top-langs/?username=Akobabs&layout=compact&theme=radical&count_private=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akobabs&theme=dracula&no-frame=true&column=7" />
 </p>
 
 ---
